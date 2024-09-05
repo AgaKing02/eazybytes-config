@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to AgaBank card related prod APIs"
+  message: "Welcome to AgaBank card related prod  (i have changed it cards) APIs"
   contactDetails:
     name: "Agakhan Peiishbek - Product Owner"
     email: "agoohanpeyishbek@gmail.com"
