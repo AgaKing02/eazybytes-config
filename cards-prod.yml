@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to AgaBank card related prod APIs"
+  contactDetails:
+    name: "Agakhan Peiishbek - Product Owner"
+    email: "agoohanpeyishbek@gmail.com"
+  onCallSupport:
+    - 8 777 320 5832
+    - 8 777 320 5833

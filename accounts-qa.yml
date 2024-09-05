@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to AgaBank account related QA APIs"
+  contactDetails:
+    name: "Agakhan Peiishbek - QA Lead"
+    email: "agoohanpeyishbek@gmail.com"
+  onCallSupport:
+    - 8 777 320 5832
+    - 8 777 320 5833
